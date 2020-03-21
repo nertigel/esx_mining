@@ -25,7 +25,9 @@ Config = {
         {coords = vector3(2928.96, 2759.09, 44.09), heading = 121.55},
         {coords = vector3(2911.58, 2779.23, 44.33), heading = 113.32},
         {coords = vector3(2907.41, 2788.16, 45.40), heading = 102.02},
-        {coords = vector3(2913.32, 2796.6, 43.27), heading = 77.61}
+        {coords = vector3(2913.32, 2796.60, 43.27), heading = 77.61 },
+        {coords = vector3(2946.08, 2726.14, 47.69), heading = 120.14},
+        {coords = vector3(2935.08, 2742.24, 44.19), heading = 118.27}
     },
 }
 
